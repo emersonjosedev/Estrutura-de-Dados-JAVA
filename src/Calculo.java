@@ -9,11 +9,7 @@ public class Calculo {
     public static int somar(int a, int b){
         return a+ b;
     }
-    class Pessoa{
-        String nome;
-        int idade;
 
-    }
     public static void chovendo(boolean chuva){
 
         //Estrutura de Controle
@@ -27,3 +23,5 @@ public class Calculo {
         }
     }
 }
+
+
